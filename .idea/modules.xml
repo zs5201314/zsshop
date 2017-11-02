@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zs-manager/zs-manager.iml" filepath="$PROJECT_DIR$/zs-manager/zs-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zs-manager/zs-manager-dao/zs-manager-dao.iml" filepath="$PROJECT_DIR$/zs-manager/zs-manager-dao/zs-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zs-manager/zs-manager-interface/zs-manager-interface.iml" filepath="$PROJECT_DIR$/zs-manager/zs-manager-interface/zs-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zs-manager/zs-manager-pojo/zs-manager-pojo.iml" filepath="$PROJECT_DIR$/zs-manager/zs-manager-pojo/zs-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zs-manager/zs-manager-service/zs-manager-service.iml" filepath="$PROJECT_DIR$/zs-manager/zs-manager-service/zs-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zs-manager/zs-manager-web/zs-manager-web.iml" filepath="$PROJECT_DIR$/zs-manager/zs-manager-web/zs-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zs-parent/zs-parent.iml" filepath="$PROJECT_DIR$/zs-parent/zs-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zscommon/zscommon.iml" filepath="$PROJECT_DIR$/zscommon/zscommon.iml" />
+    </modules>
+  </component>
+</project>
